@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @kadidiatou131313
-- 👀 I’m interested in maths! And It!
-- 🌱 I’m currently learning at ENSEA, an engineering school specialized in IT and electronics.
-- 💞️ I'd like to become an AI engineer, thus I try to learn new skills on my own. 
+Étudiante ingénieure à l’ENSEA, en double diplôme avec le Master Recherche Informatique et Ingénierie des Systèmes Complexes, je me spécialise en intelligence artificielle, apprentissage automatique et traitement du signal.
 
-<!---
-kadidiatou131313/kadidiatou131313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m’intéresse particulièrement à la compréhension et à l’optimisation des modèles d’apprentissage, qu’il s’agisse de deep learning, d’analyse multivariée ou d’explicabilité (XAI).
+
+Contact : kadidiatou.diallo@ensea.fr
+
+GitHub : kadidiatou131313
+
+Hugging Face : Kadidiatou131313
+
+LinkedIn : [Kadidiatou Diallo](https://www.linkedin.com/in/kadidiatou-diallo33/)
